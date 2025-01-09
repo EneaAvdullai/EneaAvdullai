@@ -10,13 +10,9 @@
 
 ## 🚀 **About Me**
 <p align="justify">
-I’m passionate about creating unique digital experiences. <br> My goal is to craft intelligent solutions that simplify complex problems, improving daily life for individuals and businesses alike. Every project I approach is driven by a focus on impeccable design, security, and user-friendly interfaces, ensuring technology is accessible and easy to navigate for all.
+I’m passionate about creating unique digital experiences. <br> My goal is to craft intelligent solutions that simplify complex problems, improving daily life for individuals and businesses alike. <br> Every project I approach is driven by a focus on impeccable design, security, and user-friendly interfaces, ensuring technology is accessible and easy to navigate for all. <br> 
+Innovation is at the heart of my work.
 </p>
-
-<p align="justify">
-Innovation is at the heart of my work. <br> I continuously explore new ways to make technology safer, more accessible, and enjoyable, aiming to create lasting solutions that improve the lives of people in all aspects of life.
-</p>
-
 
 
 <div style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
