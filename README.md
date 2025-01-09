@@ -26,3 +26,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,swift&perline=15)](https://skillicons.dev)
   
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=eneaavdullai&theme=dracula&no-bg=true" /> </div>
+
