@@ -1,7 +1,9 @@
 # 👋 Hey there, I'm **Enea Avdullai**!
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Swift+UX+Designer;Innovation+is+the+key;Always+learning+and+deploying+new+solutions;ENMI+IT+Agency+Founder" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00A3FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Swift+UX+Designer;Innovation+is+the+key;Always+learning+and+deploying+new+solutions;ENMI+IT+Agency+Founder" alt="Typing SVG" />
+
 
 </div>
 
