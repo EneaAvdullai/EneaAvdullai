@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00A3FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Swift+UX+Designer;Innovation+is+the+key;ENMI+IT+Agency+Founder" alt="Typing SVG" />
 
 
-</div>
 
 
 
@@ -18,7 +17,9 @@
 - 🔬 Always innovating and experimenting with new technologies.
 ```
 
-<div align="auto" style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
+
+<div align="center" style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <h2 style="color: #00A3FF; font-family: 'Fira Code', monospace;">🌍 Languages I Speak</h2>
   <p style="font-size: 16px; color: #333;">Here are the languages I know and use:</p>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 15px;">
@@ -63,10 +64,7 @@ collaborations:
   
   <div style="margin-top: 15px;">
     <a href="mailto:enea.avdullai@icloud.com" style="text-decoration: none; color: #fff; background-color: #00A3FF; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; display: inline-block; margin: 5px;">
-      ✉️ Email Me
-    </a>
-    <a href="https://www.linkedin.com/in/enea-avdullai-71a927233/" style="text-decoration: none; color: #fff; background-color: #0077B5; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; display: inline-block; margin: 5px;">
-      🔗 Connect on LinkedIn
+      ✉️ Email Me Now
     </a>
   </div>
 </div>
