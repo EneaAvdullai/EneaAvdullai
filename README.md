@@ -15,7 +15,9 @@
 - 🌍 Fluent in English, Italian, Albanian. Also got a B1 in German.
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,swift&perline=15)](https://skillicons.dev)
+## 🦸🏻‍♂️ **Anyone needs a Hero**
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,kubernetes,figma,swift&perline=8" /> </div>
 
   
 <div align="left">
@@ -25,5 +27,3 @@
   </a>
  <br>
 </div>
-
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,swift,nodejs,docker,kubernetes,figma,typescript,python&perline=8" /> </div>
