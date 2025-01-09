@@ -1,12 +1,3 @@
-
-<div align="left">
- <br>
- <a href="https://github.com/EneaAvdullai">
-    <img src="https://komarev.com/ghpvc/?username=Skjolberg&style=for-the-badge">
-  </a>
- <br>
-</div>
-
 # 👋 Hey there, I'm **Enea Avdullai**!
 
 <div align="center">
@@ -25,7 +16,14 @@
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,swift&perline=15)](https://skillicons.dev)
+
   
+<div align="left">
+ <br>
+ <a href="https://github.com/EneaAvdullai">
+    <img src="https://komarev.com/ghpvc/?username=Skjolberg&style=for-the-badge">
+  </a>
+ <br>
+</div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=eneaavdullai&theme=dracula&no-bg=true" /> </div>
-
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,swift,nodejs,docker,kubernetes,figma,typescript,python&perline=8" /> </div>
