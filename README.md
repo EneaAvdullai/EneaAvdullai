@@ -17,7 +17,7 @@
 
 ## 🦸🏻‍♂️ **Anyone needs a Hero**
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,kubernetes,figma,swift&perline=8" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,kubernetes,figma,swift,rest&perline=8" /> </div>
 
   
 <div align="left">
