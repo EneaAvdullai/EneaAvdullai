@@ -10,15 +10,15 @@
 
 ## 🚀 **About Me**
 <p align="justify">
-I’m a <strong>Full Stack Developer</strong> passionate about crafting unique digital experiences, specializing in both web and mobile applications. My goal is to create intelligent solutions that enhance daily life, simplifying complex problems and making them accessible to everyone.
+I’m very passionate about crafting unique digital experiences, specializing in both Web and mobile applications. My goal is to create intelligent solutions that enhance daily life, simplifying complex problems and making them accessible to everyone as an Individual or a Business tho.
 </p>
 
 <p align="justify">
-I approach every project with enthusiasm, focusing on impeccable design, security, and user-friendly interfaces that cater to both experts and beginners. My mission is to ensure that technology is both powerful and easy to navigate for all.
+I approach every project with enthusiasm, focusing on impeccable design, security, and user-friendly interfaces that cater to both experts and beginners. <br> My mission is to ensure that technology is both powerful and easy to navigate for all.
 </p>
 
 <p align="justify">
-Innovation is at the core of everything I do. Every new technology is an opportunity to explore, improve, and simplify. I constantly seek out ways to make technology safer, more accessible, and enjoyable for people in all walks of life. Driven by a childlike passion for technology, I strive to make a lasting impact with solutions that improve everyday experiences.
+Innovation is at the core of everything I do. I constantly seek out ways to make technology safer, more accessible, and enjoyable for people in all walks of life.
 </p>
 
 
