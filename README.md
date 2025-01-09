@@ -1,9 +1,4 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EneaAvdullai&theme=dark&count_private=true)](https://git.io/streak-stats)
-
-
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,swift&perline=15)](https://skillicons.dev)
-  
 <div align="left">
  <br>
  <a href="https://github.com/EneaAvdullai">
@@ -26,5 +21,8 @@
 - 💻 Full Stack Developer with expertise in web and mobile applications.
 - 🍎 Passionate about creating with SwiftUI, UIKit, and modern frameworks.
 - 🔬 Always innovating and experimenting with new technologies.
-- 🌍 Fluent in Italian, Albanian, and German (B1).
-- 📚 Constant learner exploring AI, blockchain, and software architecture.
+- 🌍 Fluent in English, Italian, Albanian. Also got a B1 in German.
+```
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,swift&perline=15)](https://skillicons.dev)
+  
