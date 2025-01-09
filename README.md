@@ -10,16 +10,13 @@
 
 ## 🚀 **About Me**
 <p align="justify">
-I’m very passionate about crafting unique digital experiences, specializing in both Web and mobile applications. My goal is to create intelligent solutions that enhance daily life, simplifying complex problems and making them accessible to everyone as an Individual or a Business tho.
+I’m passionate about creating unique digital experiences, specializing in both web and mobile applications. My goal is to craft intelligent solutions that simplify complex problems, improving daily life for individuals and businesses alike. Every project I approach is driven by a focus on impeccable design, security, and user-friendly interfaces, ensuring technology is accessible and easy to navigate for all.
 </p>
 
 <p align="justify">
-I approach every project with enthusiasm, focusing on impeccable design, security, and user-friendly interfaces that cater to both experts and beginners. <br> My mission is to ensure that technology is both powerful and easy to navigate for all.
+Innovation is at the heart of my work. I continuously explore new ways to make technology safer, more accessible, and enjoyable, aiming to create lasting solutions that improve the lives of people in all aspects of life.
 </p>
 
-<p align="justify">
-Innovation is at the core of everything I do. I constantly seek out ways to make technology safer, more accessible, and enjoyable for people in all walks of life.
-</p>
 
 
 <div style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
