@@ -58,18 +58,11 @@ collaborations:
   <h2 style="color: #00A3FF; font-family: 'Fira Code', monospace;">🤝 Collaborate or Reach Out!</h2>
   <p style="font-size: 16px; color: #333;" align="center">I’m always open to exciting projects, collaborations, or freelance opportunities. Let’s create something amazing together!</p>
   
-  <div style="margin-top: 15px;">
-    <a href="mailto:enea.avdullai@icloud.com" style="text-decoration: none; color: #fff; background-color: #00A3FF; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; display: inline-block; margin: 5px;"  align="center">
+  <div style="margin-top: 15px;" align="center">
+    <a href="mailto:enea.avdullai@icloud.com" style="text-decoration: none; color: #fff; background-color: #00A3FF; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; display: inline-block; margin: 5px;">
       ✉️ Email Me Now
     </a>
   </div>
 </div>
 
-  
-<div align="center">
- <br>
- <a href="https://github.com/EneaAvdullai">
-    <img src="https://komarev.com/ghpvc/?username=Skjolberg&style=for-the-badge">
-  </a>
- <br>
-</div>
+
