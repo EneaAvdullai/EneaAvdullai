@@ -18,7 +18,7 @@
 - 🔬 Always innovating and experimenting with new technologies.
 ```
 
-<div align="center" style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div align="auto" style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <h2 style="color: #00A3FF; font-family: 'Fira Code', monospace;">🌍 Languages I Speak</h2>
   <p style="font-size: 16px; color: #333;">Here are the languages I know and use:</p>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 15px;">
