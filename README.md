@@ -5,8 +5,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00A3FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Swift+UX+Designer;Innovation+is+the+key;ENMI+IT+Agency+Founder" alt="Typing SVG" />
 
-
-
+</div>
 
 
 ## 🚀 **About Me**
@@ -17,12 +16,10 @@
 - 🔬 Always innovating and experimenting with new technologies.
 ```
 
-</div>
-
-<div align="center" style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h2 style="color: #00A3FF; font-family: 'Fira Code', monospace;">🌍 Languages I Speak</h2>
+<div style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h2 style="color: #00A3FF; font-family: 'Fira Code', monospace;" align="center">🌍 Languages I Speak</h2>
   <p style="font-size: 16px; color: #333;">Here are the languages I know and use:</p>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 15px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 15px;" align="center">
     <div style="text-align: center;">
       <img src="https://flagcdn.com/w320/gb.png" alt="English" style="width: 50px; border-radius: 5px;"/>
       <p style="margin: 10px 0 0; font-size: 14px; font-weight: bold; color: #333;">English (C1 - Certificated) </p>
@@ -58,9 +55,9 @@ collaborations:
       public: "Public repositories are open-source, encouraging innovation and collaboration within the community."
 ```
 
-<div align="center" style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <h2 style="color: #00A3FF; font-family: 'Fira Code', monospace;">🤝 Collaborate or Reach Out!</h2>
-  <p style="font-size: 16px; color: #333;">I’m always open to exciting projects, collaborations, or freelance opportunities. Let’s create something amazing together!</p>
+  <p style="font-size: 16px; color: #333;" align="center">I’m always open to exciting projects, collaborations, or freelance opportunities. Let’s create something amazing together!</p>
   
   <div style="margin-top: 15px;">
     <a href="mailto:enea.avdullai@icloud.com" style="text-decoration: none; color: #fff; background-color: #00A3FF; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; display: inline-block; margin: 5px;">
@@ -70,7 +67,7 @@ collaborations:
 </div>
 
   
-<div align="left">
+<div align="center">
  <br>
  <a href="https://github.com/EneaAvdullai">
     <img src="https://komarev.com/ghpvc/?username=Skjolberg&style=for-the-badge">
