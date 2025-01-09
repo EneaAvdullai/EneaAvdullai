@@ -60,7 +60,7 @@ collaborations:
   <p style="font-size: 16px; color: #333;" align="center">I’m always open to exciting projects, collaborations, or freelance opportunities. Let’s create something amazing together!</p>
   
   <div style="margin-top: 15px;">
-    <a href="mailto:enea.avdullai@icloud.com" style="text-decoration: none; color: #fff; background-color: #00A3FF; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; display: inline-block; margin: 5px;">
+    <a href="mailto:enea.avdullai@icloud.com" style="text-decoration: none; color: #fff; background-color: #00A3FF; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; display: inline-block; margin: 5px;"  align="center">
       ✉️ Email Me Now
     </a>
   </div>
