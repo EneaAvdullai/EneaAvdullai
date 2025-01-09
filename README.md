@@ -1,6 +1,5 @@
 # 👋 Hey there, I'm **Enea Avdullai**!
 
----
 
 <div align="center">
 
