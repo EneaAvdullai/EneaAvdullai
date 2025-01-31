@@ -10,8 +10,11 @@
 
 ## 🚀 **About Me**
 <p align="justify">
-I’m passionate about creating unique digital experiences. <br> My goal is to craft intelligent solutions that simplify complex problems, improving daily life for individuals and businesses alike. <br> Every project I approach is driven by a focus on impeccable design, security, and user-friendly interfaces, ensuring technology is accessible and easy to navigate for all. 
-Innovation is at the heart of my work.
+I’m the CEO and Founder of ENMI Agency, a European software house providing advanced, customized, and highly functional solutions that help and simplify life for businesses.
+<br>
+I’m passionate about creating unique digital experiences. My goal is to craft intelligent solutions that simplify complex problems, improving daily life for individuals and companies alike.
+<br>
+Every project I approach is driven by a focus on impeccable design, security, and user-friendly interfaces, ensuring technology is accessible and easy to navigate for all. Innovation is at the heart of my work.
 </p>
 
 
