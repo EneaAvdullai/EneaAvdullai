@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00A3FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Swift+UX+Designer;Innovation+is+the+key;ENMI+IT+Agency+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00A3FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Swift+UX+Designer;Innovation+is+the+key;ENMI+Agency+Founder" alt="Typing SVG" />
 
 </div>
 
@@ -41,18 +41,11 @@ Every project I approach is driven by a focus on impeccable design, security, an
   </div>
 </div>
 
+<h2 style="color: #00A3FF; font-family: 'Fira Code', monospace;">🍽️ Tech's On the Plate </h2>
+
 <div align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,kubernetes,figma,swift,postgre,mamp&perline=8" /> </div>
 
-```yaml
-collaborations:
-  - description: >
-      All commissioned work and projects delivered to clients are handled with the utmost professionalism,
-      adhering strictly to legal and ethical standards. Client-related repositories remain private to ensure
-      confidentiality and safeguard sensitive data.
-  - repos:
-      private: "Client-specific repositories are private to protect sensitive information."
-      public: "Public repositories are open-source, encouraging innovation and collaboration within the community."
-```
+
 </div>
 
 
