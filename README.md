@@ -41,9 +41,6 @@ Every project I approach is driven by a focus on impeccable design, security, an
   </div>
 </div>
 
-
-## 🦸🏻‍♂️ **Anyone needs a Hero**
-
 <div align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,react,html,js,php,mysql,python,django,flutter,c,docker,kubernetes,figma,swift,postgre,mamp&perline=8" /> </div>
 
 ```yaml
@@ -56,16 +53,6 @@ collaborations:
       private: "Client-specific repositories are private to protect sensitive information."
       public: "Public repositories are open-source, encouraging innovation and collaboration within the community."
 ```
-
-<div style="background-color: #f4f4f4; border-radius: 10px; padding: 20px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <h2 style="color: #00A3FF; font-family: 'Fira Code', monospace;">🤝 Collaborate or Reach Out!</h2>
-  <p style="font-size: 16px; color: #333;" align="center">I’m always open to exciting projects, collaborations, or freelance opportunities. Let’s create something amazing together!</p>
-  
-  <div style="margin-top: 15px;" align="center">
-    <a href="mailto:enea.avdullai@icloud.com" style="text-decoration: none; color: #fff; background-color: #00A3FF; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; display: inline-block; margin: 5px;">
-      ✉️ Email Me Now
-    </a>
-  </div>
 </div>
 
 
